@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm Suzane.<br> I'm a software engineering graduate from Brazil.<br><br>#javascript, #programming, #swimming, #latin-history</samp>
+  <samp>Hello there. I'm Suzane.<br> I'm a software engineering graduate from Brazil.<br><br>#javascript, #programming</samp>
   <br>
   <br>
   <br>
