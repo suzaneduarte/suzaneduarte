@@ -4,7 +4,7 @@
 
 <h3 align="left">Sobre minha trajetória:</h3>
 
-- 👩‍🎓 Sou estudante de graduação na **Universidade de Brasília (UnB)**
+- 👩‍🎓 Sou estudante de graduação em **Engenharia de Software** na **Universidade de Brasília (UnB)**
 
 - 🔭 Atualmente estou trabalhando no [Sistema de Apuração dos Registros Universitários de Extensão](https://sarue-unb.github.io/sarue-web-sigaa/sobre)
 
