@@ -8,13 +8,13 @@
 
 - 🔭 Atualmente estou trabalhando no [Sistema de Apuração dos Registros Universitários de Extensão](https://sarue-unb.github.io/sarue-web-sigaa/sobre)
 
-- 🌱 Estou visando me aperfeiçoar em **Metodologias ágeis**
+- 📝 Estou visando me aperfeiçoar em **Metodologias ágeis**
   
-- 📑 Tenho tentando aprender mais sobre **Desenvolvimento de Testes**
+- 💻 Tenho tentando aprender mais sobre **Desenvolvimento de Testes**
 
-- 📄 Saiba mais sobre minhas experiências profissionais em meu [linkedin](https://www.linkedin.com/in/suzane-duarte/)
+- 👩‍💻 Saiba mais sobre minhas experiências profissionais em meu [linkedin](https://www.linkedin.com/in/suzane-duarte/)
 
-- 👩‍💻 Acesse meu currículo no seguinte [link](https://www.canva.com/design/DAEZVaFSJfk/FpGlmb0YSyyQnkRGIZi5FA/view?utm_content=DAEZVaFSJfk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Acesse meu currículo no seguinte [link](https://www.canva.com/design/DAEZVaFSJfk/FpGlmb0YSyyQnkRGIZi5FA/view?utm_content=DAEZVaFSJfk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - 📫 Caso queira entrar em contato comigo, contate-me pelo e-mail: ssuzane9@hotmail.com
 
